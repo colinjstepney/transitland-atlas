@@ -16,13 +16,6 @@
         }
       },
       {
-        "id": "f-edmonton~radial~railway~fort~edmonton~park~ab",
-        "spec": "gtfs",
-        "urls": {
-          "static_current": "https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/ERRSFortEdmonton_feed/feed-FortEdmontonPark.zip"
-        }
-      },
-      {
         "id": "f-gabriola~bc",
         "spec": "gtfs",
         "urls": {
@@ -37,7 +30,7 @@
         }
       },
       {
-        "id": "f-lasqueti~bc",
+        "id": "f-kaslo~vancouver~calgary~bc",
         "spec": "gtfs",
         "urls": {
           "static_current": "https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/MMM_feed/feed-MMM.zip"
@@ -47,43 +40,29 @@
         "id": "f-protection~island~ferry~bc",
         "spec": "gtfs",
         "urls": {
-          "static_current": "https://github.com/colinjstepney/Stepney-Transit-Consulting/blob/main/PROTECTIONISLAND_feed/feed-ProtectionIsland.zip"
+          "static_current": "https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/PROTECTIONISLAND_feed/feed-ProtectionIsland.zip"
         }
       },
       {
-        "id": "f-tofino~bc",
+        "id": "f-tofino~shuttle~bc",
         "spec": "gtfs",
         "urls": {
           "static_current": "https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/TOFINO_feed/feed-tofino.zip"
         }
       },
       {
-        "id": "f-west~coast~trail~bc",
+        "id": "f-west~coast~trail~express~bc",
         "spec": "gtfs",
         "urls": {
-          "static_current": "https://github.com/colinjstepney/Stepney-Transit-Consulting/blob/main/TRAILBUS_feed/feed-trailbus.zip"
+          "static_current": "https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/TRAILBUS_feed/feed-trailbus.zip"
         }
       },
       {
-        "id": "f-byron~bay~train",
+        "id": "f-byron~bay~train~nsw",
         "spec": "gtfs",
         "urls": {
           "static_current": "https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/BYRONBAY_feed/feed-BYRON.zip"
         }
-      },
-      {
-          "id": "f-protectionisland",
-          "spec": "gtfs",
-          "urls": {
-              "static_current": "https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/PROTECTIONISLAND_feed/feed-ProtectionIsland.zip"
-          }
-      },
-      {
-          "id": "f-west~coast~trail~express~bus~canada",
-          "spec": "gtfs",
-          "urls": {
-              "static_current": "https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/TRAILBUS_feed/feed-trailbus.zip"
-          }
       }
     ],
     "license_spdx_identifier": "CDLA-Permissive-1.0"
