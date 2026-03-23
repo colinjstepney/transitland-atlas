@@ -16,13 +16,6 @@
         }
       },
       {
-        "id": "f-edmonton~radial~railway~fort~edmonton~park~ab",
-        "spec": "gtfs",
-        "urls": {
-          "static_current": "https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/ERRSFortEdmonton_feed/feed-FortEdmontonPark.zip"
-        }
-      },
-      {
         "id": "f-gabriola~bc",
         "spec": "gtfs",
         "urls": {
