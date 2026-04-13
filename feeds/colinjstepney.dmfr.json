@@ -12,7 +12,7 @@
         "id": "f-edmonton~radial~railway~hlbs~ab",
         "spec": "gtfs",
         "urls": {
-          "static_current": "https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/ERRSHighLevel_feed/feed-ERRS1.zip"
+          "static_current": "https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/ERRSHighLevel_feed/feed-ERRS.zip"
         }
       },
       {
